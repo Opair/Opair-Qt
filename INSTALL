@@ -1,0 +1,9 @@
+Building Opair
+
+See doc/readme-qt.rst for instructions on building Opair QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Opair.
+
+See doc/build-*.txt for instructions on building Opair,
+the intended-for-services, no-graphical-interface, reference
+implementation of Opair.
