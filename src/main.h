@@ -26,7 +26,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 200; // Extra blocks to mature / confirm premine
+static const int LAST_POW_BLOCK = 45000; // Approx 1 months worth of blocks
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
